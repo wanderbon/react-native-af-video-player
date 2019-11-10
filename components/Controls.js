@@ -17,7 +17,7 @@ import {
 const styles = StyleSheet.create({
   container: {
     ...StyleSheet.absoluteFillObject,
-    zIndex: 99
+    zIndex: 2
   },
   flex: {
     flex: 1
